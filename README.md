@@ -3,7 +3,7 @@
 <html>
     <head>
         <link rel='stylesheet' href='page.css' />
-        <title>David Capragiu</title>
+        <title>ALEXANDRA VOICILA</title>
     </head>
     <body>
         <div class='container'>
